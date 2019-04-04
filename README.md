@@ -10,9 +10,9 @@ https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_pl
 Earthquake Magnitude Scale
 http://www.geo.mtu.edu/UPSeis/magnitude.html
 
-2.5 or less => Usually not felt, but can be recorded by seismograph
-2.5 to 5.4 => Often felt, but only causes minor damage
-5.5 to 6.0 => Slight damage to buildings and other structures
-6.1 to 6.9 => May cause a lot of damage in very populated areas
-7.0 to 7.9 => Major earthquake. Serious damage
+2.5 or less => Usually not felt, but can be recorded by seismograph.     
+2.5 to 5.4 => Often felt, but only causes minor damage.     
+5.5 to 6.0 => Slight damage to buildings and other structures.     
+6.1 to 6.9 => May cause a lot of damage in very populated areas.     
+7.0 to 7.9 => Major earthquake. Serious damage.     
 8.0 or greater  => Great earthquake. Can totally destroy communities near the epicenter.
