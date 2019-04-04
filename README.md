@@ -1,4 +1,4 @@
-# Visualize Global Earthquake Data
+# Map Global Earthquake Data
 Earthquakes occurring globally using a live API feed provided by the USGS (United States Geological Survey).
 
 "As the Nation's largest water, earth, and biological science and civilian mapping agency, USGS collects, monitors, analyzes, and provides science about natural resource conditions, issues, and problems. Our diverse expertise enables us to carry out large-scale, multidisciplinary investigations and provide impartial scientific information to resource managers, planners, and other customers."
