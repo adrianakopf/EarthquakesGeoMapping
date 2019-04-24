@@ -17,5 +17,8 @@ http://www.geo.mtu.edu/UPSeis/magnitude.html
 7.0 to 7.9 => Major earthquake. Serious damage.     
 8.0 or greater  => Great earthquake. Can totally destroy communities near the epicenter.
 
-
+## USA View
 ![alt text](https://github.com/adrianakopf/Geo-Mapping/blob/master/geomapping.png)
+
+## Global View
+![alt text](https://github.com/adrianakopf/Geo-Mapping/blob/master/geomapping-global.png)
