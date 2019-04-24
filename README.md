@@ -16,3 +16,6 @@ http://www.geo.mtu.edu/UPSeis/magnitude.html
 6.1 to 6.9 => May cause a lot of damage in very populated areas.     
 7.0 to 7.9 => Major earthquake. Serious damage.     
 8.0 or greater  => Great earthquake. Can totally destroy communities near the epicenter.
+
+
+![alt text](https://github.com/adrianakopf/Geo-Mapping/blob/master/geomapping.png)
